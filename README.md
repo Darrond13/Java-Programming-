@@ -1,2 +1,2 @@
 # Java-Programming-
-My Java practice programs. 
+This repository contains my Java projects and practice programs, ranging from independent coding exercises to university homework assignments. Each project demonstrates my ongoing learning and growth in Java programming concepts, problem-solving, and practical application. I'm consistently updating this space as I progress through my coursework and enhance my development skills.
